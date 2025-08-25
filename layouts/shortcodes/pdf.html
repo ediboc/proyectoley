@@ -1,0 +1,4 @@
+{{ $src := .Get "src" }}
+{{ $height := .Get "height" | default "900" }}
+<iframe src="{{ $src }}#toolbar=1&navpanes=0&view=FitH" width="100%" height="{{ $height }}" style="border:1px solid #ddd;border-radius:10px" loading="lazy"></iframe>
+<p style="margin-top:8px"><a href="{{ $src }}" target="_blank" rel="noopener">Descargar PDF</a></p>
