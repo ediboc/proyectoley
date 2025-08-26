@@ -4,12 +4,16 @@ title = "Proyecto de Ley"
 theme = "PaperMod"
 
 [params]
+  mainSections = ["posts"]   # opcional: lista los posts en la home
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowPostNavLinks = true
   ShowShareButtons = true
   ShowCodeCopyButtons = true
-
+  [params.homeInfoParams]
+    Title = "Bienvenido/a"
+    Content = "Este es mi sitio personal.\n\n👉 Para ver la iniciativa y su PDF, entra en **[Iniciativa](/iniciativa/)**."
+    
 [menu]
   [[menu.main]]
     name = "Iniciativa"
