@@ -20,3 +20,8 @@ theme = "PaperMod"
     url = "/posts/"
     weight = 2
 
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+
+
