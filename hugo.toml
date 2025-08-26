@@ -10,4 +10,13 @@ theme = "PaperMod"
   ShowShareButtons = true
   ShowCodeCopyButtons = true
 
+[menu]
+  [[menu.main]]
+    name = "Iniciativa"
+    url = "/iniciativa/"
+    weight = 1
+  [[menu.main]]
+    name = "Artículos"
+    url = "/posts/"
+    weight = 2
 
