@@ -9,6 +9,9 @@ ShowToc: true
 ## Resumen
 Breve explicación de qué trata la iniciativa, su objetivo y a quién beneficia.
 
+
+## PDF
+
 {{< pdf src="/docs/proyecto-ley-liderazgo-saludable.pdf" height="980" >}}
 
 <p style="margin:16px 0">
