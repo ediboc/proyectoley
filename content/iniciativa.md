@@ -7,7 +7,11 @@ ShowToc: true
 ---
 
 ## Resumen
-Breve explicación de qué trata la iniciativa, su objetivo y a quién beneficia.
+Esta propuesta busca que se apruebe una ley que profesionalice el liderazgo en el trabajo y ponga fin al acoso laboral mediante formación, evaluaciones externas, encuestas anónimas y medidas de protección del bienestar.
+
+Está inspirada en datos globales —como el informe State of the Global Workplace de Gallup— que demuestran que los entornos laborales saludables no solo mejoran la salud mental, sino también la productividad y la equidad.
+
+El objetivo es que esta iniciativa sirva como modelo para España, Europa y otros países comprometidos con un trabajo digno y seguro.
 
 
 ## PDF
