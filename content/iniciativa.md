@@ -1,5 +1,5 @@
 ﻿---
-title: "Iniciativa"
+title: "Por una Ley de Liderazgo Saludable: contra el acoso laboral y a favor del bienestar global"
 url: "/iniciativa/"
 summary: "Documento completo del proyecto"
 draft: false
