@@ -15,7 +15,7 @@ defaultContentLanguageInSubdir = false
     [languages.es.menu]
       [[languages.es.menu.main]]
         name = "Iniciativa"
-        url = "/iniciativa/"
+        url = "/es/iniciativa/"
         weight = 1
       [[languages.es.menu.main]]
         name = "Artículos"
