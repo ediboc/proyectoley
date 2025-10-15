@@ -1,6 +1,6 @@
 ---
 title: "For a Healthy Leadership Law: against workplace harassment and in favor of overall well-being"
-url: "initiative"
+slug: "initiative"
 summary: "Full project document"
 draft: false
 ShowToc: true
