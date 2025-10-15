@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://ediboc.com/"
 title = "Proyecto de Ley"
 theme = "PaperMod"
 
@@ -17,6 +17,10 @@ defaultContentLanguageInSubdir = false
         name = "Iniciativa"
         url = "/iniciativa/"
         weight = 1
+      [[languages.es.menu.main]]
+        name = "Artículos"
+        url = "/posts/"
+        weight = 2
 
   [languages.en]
     languageName = "English"
@@ -40,16 +44,6 @@ defaultContentLanguageInSubdir = false
     Title = "Bienvenido/a"
     Content = "Este es mi sitio personal.\n\n👉 Para ver la iniciativa y su PDF, entra en **[Iniciativa](/iniciativa/)**."
     
-[menu]
-  [[menu.main]]
-    name = "Iniciativa"
-    url = "/iniciativa/"
-    weight = 1
-  [[menu.main]]
-    name = "Artículos"
-    url = "/posts/"
-    weight = 2
-
 [markup]
   [markup.goldmark.renderer]
     unsafe = true
