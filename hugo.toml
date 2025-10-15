@@ -1,9 +1,35 @@
 baseURL = "/"
-languageCode = "es"
 title = "Proyecto de Ley"
 theme = "PaperMod"
 
+# Español en la raíz (/) y EN en /en/
+defaultContentLanguage = "es"
+defaultContentLanguageInSubdir = false
+
+[languages]
+
+  [languages.es]
+    languageName = "Español"
+    weight = 1
+    title = "Proyecto de Ley"
+    [languages.es.menu]
+      [[languages.es.menu.main]]
+        name = "Iniciativa"
+        url = "/iniciativa/"
+        weight = 1
+
+  [languages.en]
+    languageName = "English"
+    weight = 2
+    title = "Policy Project"
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        name = "Initiative"
+        url = "/en/initiative/"
+        weight = 1
+
 [params]
+  ShowLanguageSwitcher = true   # muestra selector de idioma en la barra
   mainSections = ["posts"]   # opcional: lista los posts en la home
   defaultTheme = "auto"
   ShowReadingTime = true
