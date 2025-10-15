@@ -1,4 +1,4 @@
----
+﻿---
 title: "For a Healthy Leadership Law: against workplace harassment and in favor of overall well-being"
 slug: "initiative"
 summary: "Full project document"
@@ -8,9 +8,9 @@ translationKey: "iniciativa"
 ---
 
 ## Summary
-This citizens’ initiative seeks to strengthen the **prevention, reporting, and sanctioning of workplace harassment in Spain** by promoting **healthy leadership** in public and private organizations. The central proposal is to **periodically evaluate people in supervisory roles** using transparent, measurable criteria regarding conduct, team climate, and respect for fundamental rights, in order to reduce harassment and other harmful practices at work.
+This citizensâ€™ initiative seeks to strengthen the **prevention, reporting, and sanctioning of workplace harassment in Spain** by promoting **healthy leadership** in public and private organizations. The central proposal is to **periodically evaluate people in supervisory roles** using transparent, measurable criteria regarding conduct, team climate, and respect for fundamental rights, in order to reduce harassment and other harmful practices at work.
 
-It is inspired by global data—such as Gallup’s *State of the Global Workplace* report—showing that healthy workplaces not only improve mental health, but also productivity and equity.
+It is inspired by global dataâ€”such as Gallupâ€™s *State of the Global Workplace* reportâ€”showing that healthy workplaces not only improve mental health, but also productivity and equity.
 
 The goal is for this initiative to serve as a model for Spain, Europe, and other countries committed to dignified and safe work.
 
@@ -35,8 +35,9 @@ The goal is for this initiative to serve as a model for Spain, Europe, and other
 <p style="margin:16px 0">
   <a href="https://chng.it/pKGCmcnBvD" target="_blank" rel="noopener"
      style="display:inline-block;padding:12px 18px;border-radius:12px;background:#111;color:#fff;text-decoration:none">
-    ✍️ Sign the petition on Change.org
+    âœï¸ Sign the petition on Change.org
   </a>
 </p>
+
 
 
