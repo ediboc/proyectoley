@@ -1,7 +1,7 @@
 ﻿
 ---
 title: "Por una Ley de Liderazgo Saludable: contra el acoso laboral y a favor del bienestar global"
-slug: "/iniciativa/"
+slug: "iniciativa"
 summary: "Documento completo del proyecto"
 draft: false
 ShowToc: true
