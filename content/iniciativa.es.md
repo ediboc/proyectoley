@@ -31,7 +31,7 @@ El objetivo es que esta iniciativa sirva como modelo para España, Europa y otro
 - **Sector público como referente**, extendiendo buenas prácticas a proveedores y colaboradores.
 
 ## Documento completo
-{{< pdf src="/docs/proyecto-ley-liderazgo-saludable.pdf" height="980" >}}
+{{< pdf src="/docs/proyecto-ley-liderazgo-saludable-v2.pdf" height="980" >}}
 
 <p style="margin:16px 0">
   <a href="https://chng.it/pKGCmcnBvD" target="_blank" rel="noopener"
